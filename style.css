@@ -1,0 +1,49 @@
+* {
+    background-color: white;
+    text-decoration: none;
+   
+}
+body{
+    margin: 20px;
+    background-color: white;
+    margin: 50px;
+}
+
+header {
+    
+    line-height: 1.2em;
+    letter-spacing: .04em;
+    font-style: normal;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-bottom: 60px;
+    align-content: space-between;
+    
+}
+
+header h1{
+
+font-size: 36px;
+font-weight: 900 ;
+font-family: "Brandon Grotesque";
+padding: 2rem;
+}
+
+nav {
+color: #111;
+font-family: focus;
+font-size: 12px;
+display: flex;
+justify-content: end;
+
+}
+nav a {
+    font-family: "Fira Sans";
+    color: #666;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 30px 10px;
+}
